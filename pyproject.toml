@@ -1,10 +1,10 @@
 [project]
-name = "recipes-api"
+name = "recipes-api-260527"
 version = "0.1.0"
 description = ""
 
 authors = [
-    { name = "hyperskill", email = "hyper@hyperskill.org" }
+    { name = "nate", email = "dev.njhunter@gmail.com" }
 ]
 
 readme = "README.md"
@@ -37,3 +37,6 @@ jq = ">=1.8.0,<2.0.0"
 
 [tool.coverage.run]
 relative_files = true
+
+[tool.poetry]
+package-mode = false
