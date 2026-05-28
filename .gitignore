@@ -53,3 +53,7 @@ Pipfile.lock
 
 # Poetry
 poetry.lock
+
+# Local dev dirs/files
+__*/
+__*.*
